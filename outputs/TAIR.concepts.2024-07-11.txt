@@ -1,0 +1,344 @@
+79	embryo defective	embryo development	embryo morphology	embryo viability
+79	transition	transition stage	embryo transition phase	embryo developmental stage transition
+4	Callus-induced roots	Callus formation	Root development	Root induction
+4	Mutant phenotype under restrictive conditions	Stress response	Environmental adaptation	Phenotypic plasticity
+4	Slower change of growth direction	Gravitropic response	Directional growth	Root movement
+22	Pollen tube growth difficulty	Pollen tube growth	Transmitting tract	Reproductive process
+22	Premature termination of pollen tube travel	Pollen tube growth	Transmitting tract	Reproductive process
+22	Pollen tubes leaving transmitting tract	Pollen tube growth	Transmitting tract	Reproductive process
+86	low fluorescence phenotype	reduced chlorophyll fluorescence	low chlorophyll content	altered photosynthetic efficiency
+86	severely decreased Fo	reduced minimum fluorescence	low initial fluorescence	altered baseline chlorophyll fluorescence
+86	severely decreased Fm	reduced maximum fluorescence	low peak fluorescence	altered maximum chlorophyll fluorescence
+49	hypoxia:decreased	reduced hypoxia tolerance	decreased oxygen stress resistance	lowered hypoxic stress response
+73	Shorter hypocotyls under short-day regime	Reduced hypocotyl length	Short-day photoperiod effect	Hypocotyl growth inhibition
+73	No significant differences under long-day conditions	Unchanged hypocotyl length	Long-day photoperiod effect	Normal growth under long-day conditions
+75	Smaller chloroplasts in mutant	Reduced chloroplast size	Decreased chloroplast dimensions	Smaller organelle size
+75	Fewer discs per grana stack in mutant	Reduced grana disc number	Decreased thylakoid disc count	Lower grana disc quantity
+75	Disturbed thylakoid membrane systems in mutant	Disrupted thylakoid structure	Altered thylakoid organization	Thylakoid membrane disarray
+75	Unclear membrane spacing in mutant	Indistinct thylakoid spacing	Ambiguous membrane separation	Unclear thylakoid gap
+44	Reduced fertility	low reproductive success	reduced seed set	poor pollination efficiency
+44	Male sterility	lack of viable pollen	male reproductive organ failure	absence of functional pollen
+44	Pollen collapsed	pollen grain degeneration	pollen viability loss	pollen structural failure
+44	Outcompeted by wild type pollen	competitive disadvantage in fertilization	wild type pollen dominance	inferior pollen performance
+44	Microspore release stage II	early pollen development stage	microspore maturation phase	pollen release phase
+44	Abnormal tapetum differentiation	tapetum development defect	tapetum cell layer irregularity	tapetum malfunction
+44	Sporophytic defect on microgametogenesis	sporophyte phase abnormality	microgametogenesis disruption	sporophytic influence on pollen development
+14	Dwarf plants	Dwarfism	Reduced plant height	Short stature
+14	Reduced vigor	Low vigor	Decreased plant vitality	Reduced growth rate
+14	Dies before expansion of true leaves	Premature death	Failure to develop true leaves	Seedling lethality
+14	Necrotic lesions on cotyledons	Cotyledon necrosis	Dead tissue on seed leaves	Cotyledon damage
+14	Extended viability on agar plates	Increased survival on agar	Prolonged life span on medium	Enhanced viability in vitro
+14	Compact and epinastic rosette	Compact growth form	Epinasty in rosette	Small, dense rosette
+14	Small curled leaves	Leaf curling	Reduced leaf size	Abnormal leaf morphology
+14	Short petioles	Reduced petiole length	Shortened leaf stalks	Compact petiole
+14	No bolting	Absence of bolting	Failure to flower	No stem elongation
+14	Short roots on agar plate	Reduced root length	Shortened root system	Stunted root growth
+56	osmotic stress:increased	increased osmotic stress tolerance	increased osmotic stress resistance	enhanced response to osmotic stress
+56	salt stress:increased	increased salt stress tolerance	increased salt stress resistance	enhanced response to salt stress
+60	Shorter root length	Reduced root length	Decreased root growth	Shortened root system
+60	Reduced hypocotyl length after exposure of AA	Decreased hypocotyl length with abscisic acid	Shortened hypocotyl under abscisic acid	Reduced hypocotyl growth in presence of abscisic acid
+19	embryo lethal	embryo death	embryo viability loss	embryo lethality
+19	early arrest of embryo development	early embryo development arrest	embryo development interruption	embryo growth cessation
+19	pre-globular stage of development	pre-globular embryo stage	early embryonic stage	pre-globular phase
+30	Low GFP protein levels	Reduced GFP protein expression	Decreased GFP protein accumulation	Lower GFP protein concentration
+30	Reduced splicing efficiency of GFP pre-mRNA	Decreased pre-mRNA splicing efficiency	Reduced mRNA processing efficiency	Lower pre-mRNA splicing rate
+30	Small plants	Reduced plant size	Smaller plant stature	Decreased plant height
+30	More spindly plants	Spindly plant morphology	Thin and elongated plant structure	Slender plant growth
+30	Somewhat yellowish plants	Yellowish plant coloration	Chlorosis in plants	Yellowing of plant tissues
+30	Reduced seed set	Decreased seed production	Lower seed yield	Reduced seed number
+82	increased number of trichome branches	trichome branching	epidermal cell differentiation	leaf hair development
+82	reduced root slanting	root growth angle	altered root orientation	root architecture
+7	Decreased levels of isopentenyladenosine riboside	Reduced cytokinin levels	Lower iPR concentration	Altered hormone metabolism
+7	Decreased levels of isopentenyladenosine monophosphate	Reduced cytokinin levels	Lower iPRMP concentration	Altered hormone metabolism
+9	Delayed vegetative phase change	Delayed transition to adult phase	Prolonged juvenile phase	Extended vegetative growth period
+9	Increased rate of leaf initiation	Accelerated leaf production	Faster leaf emergence	Enhanced leaf initiation rate
+9	Increased anthocyanin production	Enhanced anthocyanin biosynthesis	High anthocyanin accumulation	Increased pigment production
+9	Thin inflorescence stem	Reduced stem thickness	Slender flowering stem	Narrow inflorescence axis
+45	Reduced fertility	low reproductive success	reduced seed set	poor reproductive performance
+45	Reduced transmission in both male and female gametes	low gamete viability	reduced gamete function	poor gamete transmission
+45	Gametogenesis is delayed in both male and female sides	delayed gamete development	slow gametogenesis	late gamete formation
+41	In vitro pollen tube growth is reduced	Reduced pollen tube elongation	Decreased pollen tube growth rate	In vitro pollen tube development inhibition
+85	long roots	increased root length	elongated root system	enhanced root growth
+85	reduction in root hairs	decreased root hair density	reduced root hair formation	less root hair development
+85	media supplemented with methyl jasmonate and ACC	jasmonic acid treatment	ethylene precursor treatment	chemical-induced phenotype
+85	fails to produce pollen at 22C	temperature-sensitive pollen production	sterility at higher temperature	temperature-dependent fertility
+85	fertile at 16C	temperature-sensitive fertility	fertility at lower temperature	temperature-dependent reproductive success
+1	aberrant cotyledon development	abnormal cotyledon morphology	altered cotyledon structure	cotyledon shape defect
+1	uneven surface	irregular cotyledon surface	non-uniform cotyledon texture	rough cotyledon surface
+1	hyponastic growth	upward leaf curling	leaf hyponasty	leaf curvature
+1	aberrant pavement cell morphology	abnormal epidermal cell shape	altered pavement cell structure	irregular pavement cells
+1	aberrant stomatal morphology	abnormal stomatal structure	altered stomatal shape	irregular stomata
+1	defective trichome formation	impaired trichome development	abnormal trichome morphology	trichome formation defect
+1	absence of jigsaw puzzle-like cell shape	loss of interlocking cell pattern	absence of typical pavement cell shape	non-jigsaw puzzle pavement cells
+74	Inability to remain upright	Plant height stability	Structural integrity	Stem strength
+74	No lignin production	Lignin biosynthesis	Secondary cell wall composition	Cell wall biopolymer
+74	No cellulose production	Cellulose biosynthesis	Secondary cell wall composition	Cell wall biopolymer
+20	seed failed to be produced	seed production failure	absence of seed formation	seed development defect
+20	male gametophytic transmission inhibited	male gametophyte transmission failure	pollen transmission defect	male reproductive failure
+20	role in male fertility	male fertility function	male reproductive role	male gametophyte function
+20	pollen does not germinate	pollen germination failure	pollen viability issue	pollen non-germination
+20	bursting tubes	pollen tube bursting	pollen tube rupture	pollen tube integrity defect
+32	Male sterile	sterility in male reproductive organs	lack of viable pollen	male gametophyte infertility
+18	short siliques	reduced silique length	shortened fruit length	silique size reduction
+18	reduced number of seeds	decreased seed count	reduced seed production	low seed yield
+18	abnormally shaped embryos	embryo morphology defect	irregular embryo shape	embryo development abnormality
+97	small trichomes	reduced trichome size	diminished trichome dimensions	smaller hair-like structures
+97	variable branches	inconsistent branching	irregular branch formation	non-uniform branch pattern
+50	heat:increased	increased heat tolerance	enhanced heat stress response	greater heat resistance
+50	oxidative stress:decreased	reduced oxidative stress tolerance	decreased oxidative stress resistance	lower oxidative stress response
+50	salt stress:decreased	reduced salt stress tolerance	decreased salt stress resistance	lower salt stress response
+89	pigment defective embryo	pigment deficiency in embryo	embryo color abnormality	embryo pigmentation defect
+89	pale mature embryo	reduced pigmentation in mature embryo	mature embryo color pale	mature embryo pigmentation reduced
+27	Increased saccharification yield	Increased sugar release	Enhanced biomass conversion	Improved fermentable sugar production
+27	Increased enzymatic hydrolysis efficiency	Enhanced enzyme activity	Improved substrate breakdown	Optimized biomass degradation
+12	Dormant seeds	Seed dormancy	Delayed germination	Seed dormancy trait
+12	Lack peroxisomal citrate synthase	Enzyme deficiency	Peroxisomal enzyme	Metabolic enzyme
+12	Cannot mobilize triacyglycerols	Triacylglycerol metabolism	Storage lipid breakdown	Lipid mobilization
+12	Block in fatty acid beta-oxidation	Fatty acid metabolism	Energy production pathway	Metabolic block
+64	ovule defective	ovule development	ovule morphology	ovule structure
+64	outer integument fails to initiate	integument initiation	integument formation	integument development
+64	abaxial side of the ovule	abaxial ovule surface	abaxial ovule region	abaxial ovule part
+64	outer integument development is not observed	integument growth	integument absence	integument formation failure
+64	protuberance on adaxial side	adaxial ovule protuberance	adaxial ovule outgrowth	adaxial ovule bulge
+64	limited expansion of protuberance	protuberance growth restriction	protuberance size limitation	protuberance development constraint
+64	female sterile	female sterility	female reproductive failure	female fertility defect
+78	elevated levels of Pathogenesis-related (PR) genes	increased PR gene expression	PR gene upregulation	enhanced PR gene activity
+78	enhanced resistance against virulent pathogens	increased pathogen resistance	improved disease resistance	stronger defense against pathogens
+76	bright green stems	bright green stem color	altered stem pigmentation	green stem trait
+76	bright green siliques	bright green silique color	altered silique pigmentation	green silique trait
+76	reduced relative number of tube-shaped structures on the epicuticular wax layer	reduced epicuticular wax structures	altered wax layer morphology	epicuticular wax trait
+76	slender appearance	slender plant morphology	thin plant structure	plant slenderness
+76	somewhat club-like siliques	club-shaped siliques	altered silique shape	club-like silique morphology
+16	Gametophyte lethal	Gametophyte viability	Plant reproductive success	Plant fertility
+16	Pollen development arrests as mitosis I	Pollen development stage	Cell division in pollen	Plant reproductive process
+16	Reduced transmission in both reciprocal crosses	Genetic transmission efficiency	Plant breeding success	Genetic inheritance
+16	Male and female gametophyte lethality	Gametophyte viability	Plant reproductive success	Plant fertility
+21	Impaired root hair development	abnormal root hair formation	root hair growth defect	root hair morphology alteration
+21	site selection of the initial bulge	abnormal root hair initiation	root hair bulge positioning	root hair bulge site selection
+21	positioning of the tip-growth machinery	abnormal tip-growth machinery placement	root hair tip-growth machinery mislocalization	root hair tip-growth machinery positioning
+21	process of tip growth	abnormal root hair tip growth	root hair elongation defect	root hair tip growth process
+21	root hairs are consistently shorter	reduced root hair length	shortened root hairs	root hair length reduction
+21	initiating bulge forms in the middle	abnormal root hair bulge location	root hair bulge misplacement	root hair bulge formation site
+21	thin root hair without enlarged basis	abnormal root hair thickness	root hair base not enlarged	root hair thinness
+21	structure of root hairs is irregular	irregular root hair structure	variable root hair diameter	root hair structural irregularity
+21	lower one-half of root hair enlarged	abnormal root hair base enlargement	root hair base thickening	root hair lower part enlargement
+21	upper part thinner but irregular	abnormal root hair upper part thickness	root hair upper part thinness	root hair upper part irregularity
+21	enlarged part formed but not developed	abnormal root hair development arrest	root hair growth cessation	root hair enlargement without further growth
+21	two root hairs from initial bulge	abnormal root hair branching	root hair bifurcation	root hair dual formation
+21	bulge formation grew bigger along epidermal surface	abnormal root hair bulge expansion	root hair bulge enlargement	root hair bulge growth along epidermis
+21	tip growth initiated at two positions	abnormal root hair tip growth initiation	root hair dual tip growth initiation	root hair tip growth at multiple sites
+13	Downward-curled leaf margins	Leaf morphology	Leaf margin curvature	Leaf shape abnormality
+90	reduced growth on low-nitrogen medium with alanine supplementation	reduced plant height	low nitrogen stress response	altered nutrient uptake
+43	Reduced LAS expression	Reduced LATERAL SUPPRESSOR expression	Decreased LAS gene activity	Lowered LAS gene expression levels
+43	Defective cotyledon development	Abnormal cotyledon formation	Disrupted cotyledon growth	Irregular cotyledon development
+43	Incomplete penetrance	Variable expression of phenotype	Not all individuals show the trait	Partial manifestation of phenotype
+43	Tricots	Three cotyledons	Tricotyledonous seedlings	Seedlings with three cotyledons
+43	Partially fused cotyledons	Partially joined cotyledons	Partially merged cotyledons	Partially connected cotyledons
+43	Alterations of leaf phyllotaxy	Changed leaf arrangement	Modified leaf positioning	Altered leaf spatial pattern
+43	Leaf fusion	Leaves joined together	Leaves fused at margins	Connected leaf structures
+15	ER-derived vesicles	ER vesicle formation	ER vesicle transport	ER vesicle function
+15	decreased uptake of UDP-glucose	UDP-glucose transport	UDP-glucose uptake	UDP-glucose metabolism
+15	BiP overexpressed	BiP protein expression	BiP protein levels	BiP protein regulation
+15	Calnexin overexpressed	Calnexin protein expression	Calnexin protein levels	Calnexin protein regulation
+15	unfolded protein response activated	Unfolded protein response	Protein folding stress	ER stress response
+31	Lower leaf temperature	Higher transpiration rate	Reduced leaf temperature	Enhanced cooling effect
+31	Higher transpiration	Increased water loss	Enhanced stomatal opening	Improved evaporative cooling
+31	Less CAR9 protein accumulated	Reduced CAR9 protein levels	Decreased CAR9 protein presence	Lower CAR9 protein concentration
+31	More ubiquitinated CAR9 protein	Increased CAR9 protein ubiquitination	Enhanced CAR9 protein degradation	More CAR9 protein tagged for degradation
+31	Hyposensitive to ABA	Reduced sensitivity to Abscisic Acid	Decreased ABA response	Lower ABA-induced reaction
+31	Sensitive to drought stress	Increased drought susceptibility	Enhanced drought sensitivity	Reduced drought tolerance
+63	altered organ shape	organ morphology	organ shape	organ development
+63	affecting the development of leaves	leaf development	leaf morphology	leaf growth
+63	affecting the development of inflorescences	inflorescence development	inflorescence morphology	inflorescence growth
+63	affecting the development of flowers	flower development	flower morphology	flower growth
+63	affecting the development of siliques	silique development	silique morphology	silique growth
+63	rounder cotyledons	cotyledon shape	cotyledon morphology	cotyledon development
+63	rounder leaves	leaf shape	leaf morphology	leaf development
+63	shorter petioles	petiole length	petiole morphology	petiole development
+63	shorter and wider flowers	flower size	flower morphology	flower development
+63	shorter pedicels	pedicel length	pedicel morphology	pedicel development
+63	flowers are clustered at the top of the inflorescence	inflorescence structure	flower arrangement	inflorescence morphology
+63	shorter and wider siliques	silique size	silique morphology	silique development
+63	blunt tip siliques	silique tip morphology	silique shape	silique development
+63	shorter and wider inflorescence stems	inflorescence stem size	inflorescence stem morphology	inflorescence stem development
+63	compact inflorescence	inflorescence structure	inflorescence morphology	inflorescence arrangement
+68	resistant to inhibitory effects of indole-3-butyric acid on root elongation	resistance to hormone inhibition	root growth unaffected by IBA	indole-3-butyric acid resistance
+68	roots show normal response to indole-3-acetic acid	NA	NA	NA
+5	Constitutive ethylene response phenotype	Ethylene signaling pathway	Constitutive response	Plant hormone response
+5	Small rosette leaves	Reduced leaf size	Leaf morphology	Leaf development
+5	Small inflorescence	Reduced inflorescence size	Inflorescence morphology	Inflorescence development
+5	Delayed bolting	Late flowering time	Flowering time regulation	Delayed transition to flowering
+5	Infertile early flowers	Reduced fertility	Flower sterility	Reproductive development
+5	Reduced root growth	Decreased root length	Root morphology	Root development
+83	increased sensitivity to exogenous JA	increased response to jasmonic acid	exogenous hormone sensitivity	jasmonate signaling pathway
+83	constitutive short-root phenotype	reduced root length	altered root morphology	shortened primary root
+83	constitutive growth-defense antagonism	balanced growth and defense	altered growth-defense trade-off	elevated defense traits with reduced growth
+83	delayed time to bolting	late flowering	extended vegetative phase	prolonged pre-reproductive period
+8	Delayed flowering under long days	Flowering time	Photoperiod sensitivity	Long day response
+2	ABA hypersensitivity	abscisic acid sensitivity	abscisic acid response	abscisic acid signaling
+2	guard cell anion-channel activation	anion channel activity in guard cells	anion transport in guard cells	anion channel regulation in guard cells
+2	stomal closing	stomatal closure	stomatal movement	stomatal regulation
+17	Gametophytic lethal	Gametophyte viability loss	Reproductive failure	Non-viable gametophytes
+17	Deformed pollen grains	Pollen morphology abnormality	Pollen structure defect	Pollen grain deformity
+17	No pollen tube formation	Pollen tube growth failure	Pollen tube development defect	Absence of pollen tube
+48	Resistant to 2,4-dichlorobutyric acid	Herbicide resistance	Root growth tolerance	Reduced herbicide sensitivity
+36	No starch branching enzyme activity detected	absence of starch branching enzyme activity	lack of enzyme function in starch biosynthesis pathway	starch metabolism disruption
+99	seedlings did not develop beyond the two- to four-leaf stage	stunted growth	limited leaf development	early growth arrest
+99	SAMs terminated with callus-like cells	apical meristem abnormality	callus formation at SAM	meristematic tissue disorganization
+99	leaves exhibited massively	abnormal leaf morphology	leaf tissue proliferation	leaf overgrowth
+99	significantly increased sensitivity to UV-C light	UV-C light sensitivity	enhanced UV-C damage response	increased UV-C susceptibility
+88	impaired photosynthesis	reduced photosynthetic efficiency	decreased chlorophyll content	photosynthesis process affected
+88	pale green leaves	reduced chlorophyll pigmentation	leaf color change	leaf chlorosis
+88	stunted growth	reduced plant height	diminished biomass accumulation	limited vegetative growth
+6	Decrease in auxin-induced mitotic activity	Reduced cell division	Lower mitotic rate	Decreased pericycle cell proliferation
+6	Metaphase and anaphase cells	Cell cycle phases	Stages of mitosis	Chromosome alignment and separation
+6	Pericycle	Root tissue	Plant vascular system	Layer of cells in roots
+84	early-arising flowers completely transformed into inflorescence shoots	flower development	inflorescence architecture	flower to inflorescence transformation
+84	late-arising flowers partially transformed	flower development	inflorescence architecture	partial flower to inflorescence transformation
+84	petals absent	flower morphology	absence of petals	flower organ loss
+84	stamens absent	flower morphology	absence of stamens	flower organ loss
+84	sterile	reproductive trait	sterility	infertility
+84	more severe phenotype under short days	environmental response	photoperiod sensitivity	day length effect
+84	more severe phenotype under lower temperature	environmental response	temperature sensitivity	cold stress effect
+84	lacks trichomes on stems and leaves	trichome morphology	absence of trichomes	hairless stems and leaves
+91	reduced radial growth	decreased stem diameter	reduced girth of stem	less radial expansion of stem
+40	Pollen defects	Pollen abnormality	Pollen development issues	Pollen formation defects
+40	Block in generative cell division	Generative cell division arrest	Generative cell division failure	Generative cell division disruption
+40	Formation of single sperm-like cells	Single sperm-like cell production	SSLC formation	Single sperm-like cell generation
+40	Preferential fertilization of central cell	Central cell fertilization bias	Central cell targeted fertilization	Central cell selective fertilization
+77	dwarf plants	reduced plant height	short stature	plant size trait
+77	need GA treatment for germination	gibberellin requirement for seed germination	hormone-dependent germination	altered germination process
+77	late flowering	delayed flowering time	extended vegetative phase	flowering time trait
+24	Incomplete penetrance	Variable expression	Not all individuals show phenotype	Partial manifestation
+24	Highly variable phenotype	Diverse traits	Phenotypic variability	Range of expressions
+24	Suspensor proliferation	Embryo structure	Excessive cell division	Abnormal growth
+24	Polyembryony	Multiple embryos	More than one embryo	Embryo duplication
+24	Twin embryos	Two embryos	Embryo pairing	Embryo twinning
+24	Viable twin embryos	Surviving twins	Healthy twin embryos	Successful germination
+24	Embryo proper defects	Embryo abnormalities	Developmental issues	Embryo malformations
+24	Cotyledon defects	Abnormal cotyledons	Leaf primordia issues	Cotyledon malformations
+24	Leaf organization defects	Leaf arrangement issues	Leaf patterning problems	Leaf structure abnormalities
+24	Embryo-specific phenotype	Embryo-limited traits	Embryo-restricted expression	Embryo-specific manifestation
+34	Smaller plant size	Reduced plant height	Decreased plant biomass	Stunted growth
+34	Serrated leaves	Leaf margin serration	Toothed leaf edges	Irregular leaf shape
+34	Yellow to light green leaves	Chlorosis	Leaf discoloration	Reduced chlorophyll content
+34	Sterility in homozygous mutants	Reproductive sterility	Failure to produce seeds	Non-viable reproductive organs
+87	organ-elongated phenotypes	increased organ length	elongated plant structures	extended organ size
+87	inflorescences longer	increased inflorescence length	elongated flower clusters	extended inflorescence size
+87	leaves longer	increased leaf length	elongated leaf structure	extended leaf size
+87	petioles longer	increased petiole length	elongated petiole structure	extended petiole size
+66	less xylose in double mutants	reduced xylose content	xylose deficiency in mutants	low xylose levels
+66	irx8 single mutant reduced xylose	irx8 mutant xylose reduction	irx8 mutant low xylose	irx8 mutant decreased xylose
+66	irx9 single mutant reduced xylose	irx9 mutant xylose reduction	irx9 mutant low xylose	irx9 mutant decreased xylose
+47	Reduced transmission through pollen	Reduced pollen transmission	Decreased pollen viability	Lowered pollen fertility
+47	Pollen germination is aberrant	Abnormal pollen germination	Defective pollen tube growth	Irregular pollen development
+47	Homozygotes cannot be recovered	Lethal homozygous condition	Homozygous lethality	Non-viable homozygous plants
+93	root elongation is less inhibited by auxin compared to WT	reduced auxin sensitivity in root elongation	auxin response in root growth	altered root elongation under auxin
+93	lateral root production is substantially less stimulated by auxin treatment compared to WT	reduced auxin-induced lateral root formation	auxin response in lateral root development	altered lateral root production under auxin
+93	rosettes are significantly smaller	reduced rosette size	smaller rosette diameter	altered rosette growth
+93	inflorescences are substantially shorter	reduced inflorescence height	shorter flowering stems	altered inflorescence growth
+93	inflorescences are substantially more branched	increased inflorescence branching	more branches in flowering stems	altered inflorescence architecture
+93	siliques have incomplete valves	incomplete silique development	abnormal silique valve formation	altered fruit morphology
+72	Unbranched trichomes	Trichome morphology	Trichome structure	Trichome branching pattern
+81	extreme hypersensitivity of seedlings and roots to UV-B and UV-C radiation	UV-B sensitivity	UV-C sensitivity	seedling root sensitivity
+81	intermediate hypersensitivity under photoreactivating conditions	photoreactivation sensitivity	UV radiation response	intermediate sensitivity
+81	extreme hypersensitivity of seeds to ionizing radiation	seed ionizing radiation sensitivity	radiation response	extreme sensitivity
+81	chlorosis following exposure to UV radiation	leaf chlorosis	UV radiation response	leaf discoloration
+81	wilting following exposure to UV radiation	leaf wilting	UV radiation response	plant wilting
+81	extensive cell death following exposure to UV radiation	cell death	UV radiation response	extensive cell death
+81	irradiation of seeds with gamma rays inhibits production of first true leaves	seed gamma ray sensitivity	first true leaf inhibition	gamma radiation response
+81	lacks trichomes on stems and leaves	trichome absence	stem trichome absence	leaf trichome absence
+81	some trichomes in leaf margins	leaf margin trichomes	trichome distribution	leaf trichome presence
+69	Extensive ectopic outgrowth formation in rosette leaf petioles	Abnormal leaf morphology	Leaf outgrowth	Leaf development
+69	Marginal region outgrowths	Leaf margin development	Leaf margin outgrowth	Leaf margin morphology
+69	Strongly radialized outgrowths	Abnormal radial symmetry	Leaf radial symmetry	Leaf shape abnormality
+28	Increased stomatal density	Stomatal density increase	More stomata per unit area	Higher stomatal count
+58	Severe dwarf	Dwarfism	Reduced plant height	Stunted growth
+58	Misshapen morphology	Abnormal plant morphology	Irregular shape	Deformed structure
+53	heat:increased	increased heat tolerance	increased heat stress response	enhanced thermotolerance
+53	osmotic stress:increased	increased osmotic stress tolerance	increased osmotic stress response	enhanced osmotolerance
+25	Increased α-amylase activity	α-amylase enzyme activity	amylase activity increase	enhanced starch breakdown
+70	shorter root hairs	reduced root hair length	decreased root hair elongation	shortened root hair development
+62	Small plants	Reduced plant size	Decreased plant height	Stunted growth
+62	Elevated salicylic acid levels	Increased SA concentration	High salicylic acid content	Enhanced SA accumulation
+62	Elevated salicylic acid glucoside levels	Increased SAG concentration	High salicylic acid glucoside content	Enhanced SAG accumulation
+62	Elevated transcript levels of SA pathway genes	Increased expression of SA pathway genes	Upregulated SA biosynthesis genes	Enhanced transcription of SA-related genes
+62	Impaired cold induction of CBF genes	Reduced cold-responsive CBF gene expression	Decreased CBF gene activation in cold	Deficient cold-induced CBF transcription
+62	Impaired freezing tolerance	Reduced ability to withstand freezing	Decreased freezing resistance	Lowered freezing stress tolerance
+71	absence of cotyledons	lack of seed leaves	seedling development defect	embryo development abnormality
+71	early heart embryo developmental stage	early embryo stage	embryo heart stage	embryo developmental phase
+71	aberrant phyllotaxy	abnormal leaf arrangement	irregular leaf positioning	leaf patterning defect
+51	osmotic stress:increased	increased osmotic stress tolerance	enhanced response to osmotic stress	improved osmotic stress resistance
+51	hypoxia:ND	hypoxia response not determined	hypoxia tolerance not assessed	hypoxia resistance not evaluated
+37	Reduced trichome branching	Trichome morphology	Trichome structure	Trichome development
+46	Reduced nitrogen content in embryos	low nitrogen levels in embryos	decreased nitrogen concentration in seeds	reduced nitrogen accumulation in embryonic tissue
+42	Reduced ABA responses in seeds	abscisic acid response in seeds	seed hormone response	seed abscisic acid sensitivity
+42	Reduced ABA responses in leaves	abscisic acid response in leaves	leaf hormone response	leaf abscisic acid sensitivity
+39	Higher survival rate under cold stress	Cold tolerance	Enhanced survival	Improved cold stress response
+95	short stature	reduced plant height	dwarfism	plant height trait
+67	Ectopic formation of secondary walls suppressed	Secondary wall formation reduced	Altered cell wall structure	Cell wall biosynthesis regulation
+94	root elongation is significantly less inhibited by auxin compared to WT	auxin response	altered root growth	hormone sensitivity
+94	lateral root production is substantially less stimulated by auxin treatment compared to WT	auxin response	altered root development	hormone sensitivity
+94	rosettes are smaller	rosette size	reduced growth	plant morphology
+94	inflorescences are shorter	inflorescence height	reduced growth	plant morphology
+94	inflorescences are slightly more branched	inflorescence branching	altered branching pattern	plant morphology
+94	many siliques have incomplete valves	silique development	abnormal fruit formation	reproductive structure
+61	Similar amount of PSI and PSII centers	Equal PSI and PSII centers	Photosystem I and II balance	Photosynthetic complex ratio
+59	Shorter hypocotyls in white light	Reduced hypocotyl length	Shortened seedling stem	Decreased hypocotyl elongation
+59	Increased hypocotyl length in darkness	Enhanced hypocotyl elongation	Extended seedling stem	Lengthened hypocotyl in absence of light
+59	Increased hypocotyl length in red light	Enhanced hypocotyl elongation	Extended seedling stem	Lengthened hypocotyl under red light
+59	Increased hypocotyl length in far-red light	Enhanced hypocotyl elongation	Extended seedling stem	Lengthened hypocotyl under far-red light
+33	Morphologically similar to double mutant wag1-1/wag2-1	Similar to double mutant	Comparable to wag1-1/wag2-1	Phenotypically like double mutant
+33	Root exhibited pronounced wavy pattern	Root wave pattern	Root undulation	Root curvature
+33	Double mutant plants were more resistant to inhibition of root curling by auxin transport inhibitor NPA	Resistance to NPA	Root curling resistance	Enhanced NPA tolerance
+96	small plant	reduced plant size	diminished plant height	decreased plant stature
+3	Arrest and differentiation of axillary meristems	Axillary meristem development	Meristem differentiation	Meristem arrest
+3	Altered leaf morphology	Leaf shape variation	Leaf structure anomaly	Leaf form alteration
+3	Abnormal phyllotaxis	Phyllotaxis irregularity	Leaf arrangement anomaly	Phyllotactic pattern disruption
+3	Reduced elongation of the primary root	Primary root growth reduction	Root elongation decrease	Root length shortening
+54	oxidative stress:decreased	reduced oxidative stress tolerance	decreased response to oxidative stress	altered oxidative stress resistance
+54	hypoxia:increased	increased hypoxia tolerance	enhanced response to low oxygen conditions	improved hypoxia resistance
+38	Semi-open cotyledons	Cotyledon shape	Seedling morphology	Embryonic leaf structure
+38	Small petioleless cotyledons	Cotyledon size	Absence of petiole	Embryonic leaf structure
+38	Oval shaped cotyledons	Cotyledon shape	Seedling morphology	Embryonic leaf structure
+38	Short hypocotyl	Hypocotyl length	Seedling morphology	Stem structure
+38	Short leaf primordia	Leaf primordium length	Leaf development	Meristematic tissue
+80	embryo lethal	embryo death	embryo viability loss	embryo non-viability
+65	Strong enhancements of the gun phenotype	increased gun phenotype	enhanced gun phenotype	stronger gun phenotype
+65	Lhcb1*2-GUS expression in the double mutants was ~fivefold higher than the single mutants	increased Lhcb1*2-GUS expression	higher Lhcb1*2-GUS levels	elevated Lhcb1*2-GUS expression
+65	Lhcb1*2-GUS expression was about 11-17% of that observed in nonphotobleached wild-type plants	reduced Lhcb1*2-GUS expression in nonphotobleached WT	11-17% Lhcb1*2-GUS expression compared to nonphotobleached WT	lower Lhcb1*2-GUS expression in nonphotobleached WT
+65	endogenous Lhcb1 mRNA levels were derepressed synergistically in the double mutants	increased endogenous Lhcb1 mRNA levels	derepressed Lhcb1 mRNA in double mutants	synergistic derepression of Lhcb1 mRNA
+55	osmotic stress:decreased	reduced osmotic stress tolerance	decreased response to osmotic stress	altered osmotic stress resistance
+26	Increased number of lateral root meristems	initiation of lateral root meristems	increased lateral root formation	enhanced root branching
+57	Serrated-dentated leaf margins	Leaf margin shape	Leaf serration	Leaf dentation
+57	Increased number of leaves	Leaf number	Leaf count	Leaf quantity
+57	Delayed flowering	Flowering time	Delayed flowering	Flowering period
+57	Increased width and size of siliques	Silique size	Silique width	Silique dimensions
+57	Reduced inflorescence length (stunted)	Inflorescence length	Stunted inflorescence	Inflorescence height
+52	heat:decreased	decreased heat tolerance	reduced heat stress response	altered thermotolerance
+52	osmotic stress:increased	increased osmotic stress tolerance	enhanced response to osmotic stress	improved drought resistance
+98	homeotic conversion of sepals to bracts	homeotic transformation of sepals	sepals converted to bracts	sepals exhibit bract-like characteristics
+98	secondary and tertiary flowers in axils of transformed sepals	additional flowers in axils	secondary flowers in axils	tertiary flowers in axils
+98	petals usually absent	petals missing	petals not present	petals absent
+98	petals replaced by stamens	petals converted to stamens	stamens instead of petals	petals transformed into stamens
+98	petal-stamen-bract-like mosaic	mosaic of petal, stamen, and bract	combination of petal, stamen, and bract	mixed petal, stamen, and bract structures
+98	phenotype varies acropetally	acropetal variation in phenotype	phenotype changes acropetally	acropetal gradient in phenotype
+98	more complete flower-to-inflorescence conversions in basal flowers	flower to inflorescence conversion in basal flowers	basal flowers show inflorescence conversion	inflorescence conversion in basal flowers
+98	more complete flower-to-inflorescence conversions at low temperature	flower to inflorescence conversion at low temperature	low temperature enhances inflorescence conversion	inflorescence conversion increases at low temperature
+11	DNA cross-over formation severely compromised	DNA recombination defect	Reduced genetic recombination	Altered meiotic crossover frequency
+29	Late flowering	Delayed flowering time	Extended vegetative phase	Prolonged pre-reproductive period
+29	Decreased freezing tolerance	Reduced cold resistance	Lower frost hardiness	Decreased ability to withstand freezing temperatures
+100	yellow-green	leaf color	plant color	chlorophyll content
+100	reduced plant height	plant height	plant stature	plant size
+100	thin stems	stem thickness	stem diameter	stem morphology
+100	short stems	stem length	stem height	stem size
+10	Delayed vegetative phase change	Delayed transition from juvenile to adult phase	Prolonged vegetative growth period	Extended vegetative development
+10	Increased rate of leaf initiation	Accelerated leaf production	Faster leaf emergence	Enhanced leaf initiation rate
+10	More severe vegetative phenotype than 35S::MIR156A	Exaggerated vegetative traits compared to 35S::MIR156A	Stronger vegetative characteristics than 35S::MIR156A	More pronounced vegetative features than 35S::MIR156A
+10	Delayed flowering time	Prolonged time to flower initiation	Late onset of flowering	Extended period before flowering
+92	robust resistance to insect herbivores	increased pest resistance	insect herbivore defense	enhanced insect resistance
+92	robust resistance to fungal pathogens	increased pathogen resistance	fungal pathogen defense	enhanced fungal resistance
+92	slow vegetative growth	reduced growth rate	vegetative growth retardation	slow plant development
+92	poor reproductive performance	reduced reproductive success	low reproductive efficiency	poor reproductive output
+92	seed production about one-third of WT levels	reduced seed yield	low seed production	decreased seed output
+92	reduced germination	low germination rate	poor seed germination	decreased germination efficiency
